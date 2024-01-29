@@ -22,3 +22,8 @@ Then you can fire up the notebook with:
 ```
 jupyter notebook "Image Search.ipynb"
 ```
+
+At the end of the tutorial, you'll be able to search for images with snippets
+of text, like this:
+
+![A screenshot of a line of code searching for "corgi in the snow" followed by a grid of animal photos.](readme_images/screenshot.png)
